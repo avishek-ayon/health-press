@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Medical Service",
+        "img": "https://i.ibb.co/CQQCswZ/medical.jpg",
+        "description": "For Medical Going"
+    },
+    {
+        "id": 2,
+        "name": "Clinic Service",
+        "img": "https://i.ibb.co/ngL46tf/clinic.jpg",
+        "description": "For Clinic Going"
+    },
+    {
+        "id": 3,
+        "name": "Medicine Service",
+        "img": "https://i.ibb.co/zGNpGYL/medicine.jpg",
+        "description": "For Medicine"
+    },
+    {
+        "id": 4,
+        "name": "Ambulance Service",
+        "img": "https://i.ibb.co/nk8kNJf/ambulance.jpg",
+        "description": "For Ambulance Service"
+    },
+    {
+        "id": 5,
+        "name": "Doctor Service",
+        "img": "https://i.ibb.co/C6wc70b/doctor.jpg",
+        "description": "For Doctor Searching"
+    },
+    {
+        "id": 6,
+        "name": "Emergency Service",
+        "img": "https://i.ibb.co/vvbrvTx/emergency.jpg",
+        "description": "For Emergency Going"
+    }
+]

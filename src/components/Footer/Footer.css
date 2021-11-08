@@ -1,0 +1,14 @@
+
+.fo{
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.foot-img img{
+    padding-top: 10px;
+    width: 100px;
+}
